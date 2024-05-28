@@ -1,0 +1,8 @@
+path: E:\repositorio\OIDv4_ToolKit\OID\Dataset\train\Human body
+train: \Image_train
+val: \Image_train
+
+#classes
+
+names: 
+  0: Human body
